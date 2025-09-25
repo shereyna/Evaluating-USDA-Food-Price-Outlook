@@ -4,5 +4,5 @@ This project evaluates the accuracy and reliability of the USDA Economic Researc
 
 ### Datasets
 Source: 
-- [USDA ERS Food Price Outlook - ](https://www.ers.usda.gov/data-products/food-price-outlook)
+- [USDA ERS Food Price Outlook](https://www.ers.usda.gov/data-products/food-price-outlook)
 - [U.S. Bureau of Labor Statistics - CUSR0000SA0](https://data.bls.gov/dataViewer/view/timeseries/CUSR0000SA0)
